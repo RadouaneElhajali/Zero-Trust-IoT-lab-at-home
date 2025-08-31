@@ -3,6 +3,8 @@
 [![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20RPi%20%7C%20OpenWrt-blue)](https://github.com/RadouaneElhajali/Zero-Trust-IoT-lab-at-home)
 [![Security](https://img.shields.io/badge/Security-Zero--Trust-green)](https://github.com/yourusername/zero-trust-iot-security)
 [![TLS](https://img.shields.io/badge/TLS-1.2-orange)](https://github.com/yourusername/zero-trust-iot-security)
+
+
 **[View Full Project Report (PDF)](DOCS/Radouane ELHAJALI - PFE REPORT.pdf)** - Complete technical documentation
 
 > A comprehensive, production-ready Zero-Trust security framework for IoT deployments featuring end-to-end encryption, certificate-based authentication, and real-time threat monitoring.
