@@ -69,5 +69,9 @@ The system consists of four main layers:
 # Flash OpenWrt to router
 # Configure VLANs (10.0.0.0/24 and 10.0.20.0/24)
 # See docs/network-setup.md for detailed instructions
+```
+## 📚 Documentation
+- [Download Full Report (PDF)](https://drive.google.com/file/d/1Hh-sv8bAHPXcVmj_s_4LRTFRRcF79WQb/view?usp=drive_link) - 58 pages, comprehensive documentation
+- Report covers: Architecture, Implementation, Security Analysis, Performance Metrics
 
 **STILL WORKING ON THIS REPO**
