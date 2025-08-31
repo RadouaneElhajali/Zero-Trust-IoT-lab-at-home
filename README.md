@@ -4,9 +4,6 @@
 [![Security](https://img.shields.io/badge/Security-Zero--Trust-green)](https://github.com/yourusername/zero-trust-iot-security)
 [![TLS](https://img.shields.io/badge/TLS-1.2-orange)](https://github.com/yourusername/zero-trust-iot-security)
 
-
-[View Full Project Report (PDF)](https://drive.google.com/file/d/1Hh-sv8bAHPXcVmj_s_4LRTFRRcF79WQb/view?usp=drive_link)** - Complete technical documentation
-
 > A comprehensive, production-ready Zero-Trust security framework for IoT deployments featuring end-to-end encryption, certificate-based authentication, and real-time threat monitoring.
 
 ## Overview
@@ -70,7 +67,7 @@ The system consists of four main layers:
 # Configure VLANs (10.0.0.0/24 and 10.0.20.0/24)
 # See docs/network-setup.md for detailed instructions
 ```
-## 📚 Documentation
+## Documentation
 - [Download Full Report (PDF)](https://drive.google.com/file/d/1Hh-sv8bAHPXcVmj_s_4LRTFRRcF79WQb/view?usp=drive_link) - 58 pages, comprehensive documentation
 - Report covers: Architecture, Implementation, Security Analysis, Performance Metrics
 
