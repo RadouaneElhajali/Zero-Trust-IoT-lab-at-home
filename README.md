@@ -5,7 +5,7 @@
 [![TLS](https://img.shields.io/badge/TLS-1.2-orange)](https://github.com/yourusername/zero-trust-iot-security)
 
 
-**[View Full Project Report (PDF)](DOCS/Radouane ELHAJALI - PFE REPORT.pdf)** - Complete technical documentation
+[View Full Project Report (PDF)](DOCS/RadouaneELHAJALI_PFE_REPORT.pdf)** - Complete technical documentation
 
 > A comprehensive, production-ready Zero-Trust security framework for IoT deployments featuring end-to-end encryption, certificate-based authentication, and real-time threat monitoring.
 
